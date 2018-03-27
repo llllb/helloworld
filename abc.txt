@@ -1,5 +1,5 @@
 hello world !
-big apple!
+bigbig apple!
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 =======
